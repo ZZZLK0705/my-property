@@ -63,10 +63,16 @@
     const downloadBtn = document.getElementById("downloadBtn");
 
     // 内嵌 JSON 数据（你可以把本地 items.json 的内容直接替换下面数组）
-    let items = [
-      {"name":"鼠标","price":100,"days":365,"imgSrc":"mouse.jpg","date":1690000000000,"usedDays":30,"remainDays":335,"avg":"3.33","currentValue":"91.78"},
-      {"name":"键盘","price":200,"days":730,"imgSrc":"keyboard.jpg","date":1690000000000,"usedDays":30,"remainDays":700,"avg":"6.67","currentValue":"191.78"}
-    ];
+    let items = [];
+
+fetch("items.json")
+  .then(res => res.json())
+  .then(data => {
+    items = data;
+    renderItems();
+    updateSummary();
+  });
+
 
     renderItems();
     updateSummary();
