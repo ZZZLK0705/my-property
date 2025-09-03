@@ -1,0 +1,112 @@
+[
+  {
+    "name": "iPhone 15 pro Max",
+    "price": 9499,
+    "days": 1100,
+    "imgSrc": "iPhone.png",
+    "date": 1698710400000,
+    "usedDays": 673,
+    "remainDays": 427,
+    "avg": "14.11",
+    "currentValue": "3687.34"
+  },
+  {
+    "name": "MacBook Air M2",
+    "price": 9499,
+    "days": 1600,
+    "imgSrc": "Macbook.png",
+    "date": 1643587200000,
+    "usedDays": 1311,
+    "remainDays": 289,
+    "avg": "7.25",
+    "currentValue": "1715.76"
+  },
+  {
+    "name": "ipad.png",
+    "price": 7500,
+    "days": 1600,
+    "imgSrc": "ipad.png",
+    "date": 1645920000000,
+    "usedDays": 1284,
+    "remainDays": 316,
+    "avg": "5.84",
+    "currentValue": "1481.25"
+  },
+  {
+    "name": "小米显示器",
+    "price": 1150,
+    "days": 1000,
+    "imgSrc": "redmi.png",
+    "date": 1756684800000,
+    "usedDays": 2,
+    "remainDays": 998,
+    "avg": "575.00",
+    "currentValue": "1147.70"
+  },
+  {
+    "name": "联想拯救者",
+    "price": 8100,
+    "days": 2000,
+    "imgSrc": "lenovo.jpg",
+    "date": 1629417600000,
+    "usedDays": 1475,
+    "remainDays": 525,
+    "avg": "5.49",
+    "currentValue": "2126.25"
+  },
+  {
+    "name": "三星显示器",
+    "price": 1099,
+    "days": 2000,
+    "imgSrc": "samsung.jpg",
+    "date": 1698105600000,
+    "usedDays": 680,
+    "remainDays": 1320,
+    "avg": "1.62",
+    "currentValue": "725.34"
+  },
+  {
+    "name": "AirPods Pro 2",
+    "price": 1899,
+    "days": 1600,
+    "imgSrc": "airPods.jpg",
+    "date": 1663891200000,
+    "usedDays": 1076,
+    "remainDays": 524,
+    "avg": "1.76",
+    "currentValue": "621.92"
+  },
+  {
+    "name": "AirPods 2",
+    "price": 939,
+    "days": 2000,
+    "imgSrc": "airpod2.png",
+    "date": 1646870400000,
+    "usedDays": 1273,
+    "remainDays": 727,
+    "avg": "0.74",
+    "currentValue": "341.33"
+  },
+  {
+    "name": "Momentum 4",
+    "price": 2284,
+    "days": 2000,
+    "imgSrc": "momentum.jpg",
+    "date": 1695772800000,
+    "usedDays": 707,
+    "remainDays": 1293,
+    "avg": "3.23",
+    "currentValue": "1476.61"
+  },
+  {
+    "name": "哈趣投影仪",
+    "price": 619,
+    "days": 720,
+    "imgSrc": "haqu.avif",
+    "date": 1755388800000,
+    "usedDays": 17,
+    "remainDays": 703,
+    "avg": "36.41",
+    "currentValue": "604.38"
+  }
+]
